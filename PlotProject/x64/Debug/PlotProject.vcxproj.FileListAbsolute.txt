@@ -1,0 +1,3 @@
+C:\Users\Kirill\Desktop\Лабы_инф\PlotProject\PlotProject\x64\Debug\PlotProject.vcxproj.AssemblyReference.cache
+C:\Users\Kirill\Desktop\Лабы_инф\PlotProject\PlotProject\x64\Debug\PlotProject.vcxproj.GenerateResource.cache
+C:\Users\Kirill\Desktop\Лабы_инф\PlotProject\PlotProject\x64\Debug\PlotProject.Plot.resources
